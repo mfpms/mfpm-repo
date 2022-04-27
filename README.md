@@ -1,2 +1,2 @@
-# mufrepo
-The repository manager of mufpkg
+# mfrp
+The repository manager of mfpkg
