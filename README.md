@@ -1,2 +1,2 @@
 # mfrp
-The repository manager of mfpkg
+The repository manager of mfpm
