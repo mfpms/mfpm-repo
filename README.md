@@ -1,2 +1,2 @@
-# mfpm-repo
+# mfrepo
 The repository manager of mfpm
